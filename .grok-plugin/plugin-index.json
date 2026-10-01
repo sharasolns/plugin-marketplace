@@ -871,8 +871,8 @@
       }
     },
     "sdp-platform": {
-      "sha": "fab9d542b3bbf1f439ff6272844f513c6eafe132",
-      "version": "0.1.9",
+      "sha": "edfe8ce78b6d84c1c3a58b546dd294b6e088ddc6",
+      "version": "0.1.10",
       "components": {
         "mcpServers": [
           {
@@ -892,7 +892,7 @@
             "description": "http"
           },
           {
-            "name": "sdp-website-builder",
+            "name": "sdp-website-manager",
             "description": "http"
           }
         ],
